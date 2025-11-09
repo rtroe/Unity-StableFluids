@@ -50,7 +50,7 @@ public sealed class MarblingController : MonoBehaviour
     void Update()
     {
         _input.Update();
-        UpdateColorInjection();
+        //UpdateColorInjection();
         UpdateForceField();
     }
 
